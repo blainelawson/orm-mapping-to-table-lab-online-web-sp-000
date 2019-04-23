@@ -15,4 +15,7 @@ class Student
 
   def save
   end
+
+  def create
+  end
 end
